@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ruban-geoinfo
 - 👀 I’m interested in Remote Sensing and Open source web mapping
-- 🌱 I’m currently learning about geospatial technology 
+- 🌱 I’m currently working in the Research Data Management Projects
 - 💞️ I’m looking to collaborate on open-source technology
 - 📫 How to reach me: rubangeoinfo@gmail.com
 
