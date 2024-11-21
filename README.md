@@ -15,7 +15,7 @@
 - Before joining the team, he worked as a student assistant at the German Aerospace Center (DLR) in Braunschweig for two years. 
 - He has hands-on experience in Web GIS, drone geofencing systems, LiDAR mobile mapping, data management, and geo-data visualization.
 
-- 📫 How to reach me: rubangeoinfo@gmail.com
+- To contact: rubangeoinfo@gmail.com
 
 ---
 
