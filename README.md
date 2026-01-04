@@ -10,8 +10,8 @@
 
 ### Biography
 
-- Rubankumar holds a Master’s degree in Geoinformatics from the University of Münster. He currently plays a research developer role in the IBG-3 data management team at FZJ, collaborating with GFZ and UFZ. 
-- His work focuses on developing a Sensor Management System and DOI web application. 
+- Rubankumar holds a Master’s degree in Geoinformatics from the University of Münster. He currently plays a research software engineer role in the IBG-3 data management team at FZJ, collaborating with GFZ and UFZ. 
+- His work focuses on developing a Sensor Management System, a Time series Management self-service portal and a DOI web application. 
 - Before joining the team, he worked as a student assistant at the German Aerospace Center (DLR) in Braunschweig for two years. 
 - He has hands-on experience in Web GIS, drone geofencing systems, LiDAR mobile mapping, data management, and geo-data visualization.
 
