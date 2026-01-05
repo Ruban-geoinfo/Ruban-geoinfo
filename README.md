@@ -18,8 +18,7 @@
 - To contact: rubangeoinfo@gmail.com
 
 ---
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ruban-geoinfo&show_icons=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Ruban-geoinfo&show_icons=true" />
 
 
 
